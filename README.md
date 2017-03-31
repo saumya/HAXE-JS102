@@ -6,6 +6,13 @@ Haxe-JS-102
 Here is an experiment of JS development with HAXE.
 
 
+```
+haxe build.hxml
+```
+
+That will generate a single JS file inside `bin` folder, the `bin` folder will be created, if its not present.
+
+
 
 
 [1]: https://saumya.github.io/ray/articles/47/
