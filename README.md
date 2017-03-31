@@ -12,6 +12,12 @@ haxe build.hxml
 
 That will generate a single JS file inside `bin` folder, the `bin` folder will be created, if its not present.
 
+#### NodeJS
+ The reference is taken from [this doc][5]          
+
+```
+haxe -lib hxnodejs -main Main -js main.js
+```
 
 
 
@@ -19,3 +25,4 @@ That will generate a single JS file inside `bin` folder, the `bin` folder will b
 [2]: https://saumya.github.io/ray/articles/48/
 [3]: https://saumya.github.io/ray/articles/50/
 [4]: https://github.com/saumya/HAXE-JS101
+[5]: https://github.com/HaxeFoundation/hxnodejs

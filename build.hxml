@@ -27,3 +27,22 @@
 -main AppEntry
 -js ./bin/app.js
 # ########################################################
+
+# ########################################################
+# 4
+# NODEjs
+# ref: https://github.com/HaxeFoundation/hxnodejs
+# 
+# -cp src
+# -lib hxnodejs 
+# -D js-es5
+# -main AppEntry 
+# -js bin/app.js
+# ########################################################
+
+
+
+
+
+
+
