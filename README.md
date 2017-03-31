@@ -1,7 +1,7 @@
 Haxe-JS-102
 ============
 
- The references are taken from [101][1],[102][2],[HAXE and NODE][3] and [this repo][4]
+ The references are taken from [intro 101][1],[intro 102][2],[HAXE and NODE][3] and [this repo][4]
 
 Here is an experiment of JS development with HAXE.
 
@@ -17,6 +17,12 @@ That will generate a single JS file inside `bin` folder, the `bin` folder will b
 
 ```
 haxe -lib hxnodejs -main Main -js main.js
+```
+
+After generating the code, just run it from NODE.
+
+```
+node bin/app.js
 ```
 
 

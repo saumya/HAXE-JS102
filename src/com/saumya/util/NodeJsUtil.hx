@@ -6,7 +6,7 @@
 //ref : http://matthijskamstra.github.io/haxenode/00helloworld/example.html
 
 // For this, add '-lib hxnodejs' in the build.hxml
-// TO run in NODE do `node bin\app.js` 
+// TO run in NODE do `node bin/app.js` 
 
 package com.saumya.util;
 
