@@ -5,6 +5,7 @@ import js.html.Document;
 import js.html.Window;
 //
 import com.saumya.util.TestUtil;
+import com.saumya.util.NodeJsUtil;
 
 //@:expose("SaumyaLib.ApplicationEntry")
 class AppEntry
@@ -13,9 +14,11 @@ class AppEntry
 		trace("ApplicationEntry:Constructor");
         
         var tu:TestUtil = new TestUtil('TestIsType',24.0);
-
         trace(tu.getType());
         trace(tu.getAge());
+
+        var nUtil:NodeJsUtil = new NodeJsUtil('NodeJsUtil',1.0);
+        nUtil.testNodeEnv();
         
 	}
 

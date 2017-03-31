@@ -24,6 +24,7 @@
 # For 1 compiled output JS
 # [No Main] (js:No output)
 -cp src
+-lib hxnodejs 
 -main AppEntry
 -js ./bin/app.js
 # ########################################################
