@@ -5,7 +5,7 @@ Haxe-JS-102
 
 Here is an experiment of JS development with HAXE.
 
- - [HAXE Node][5] API doc
+ - [HAXE Node][7] API doc and [repo][6] is here
  - [HAXE JS][6] API doc
 
 
@@ -39,3 +39,4 @@ node bin/app.js
 [4]: https://github.com/saumya/HAXE-JS101
 [5]: https://github.com/HaxeFoundation/hxnodejs
 [6]: http://api.haxe.org/js/
+[7]: http://haxefoundation.github.io/hxnodejs/js/Node.html
